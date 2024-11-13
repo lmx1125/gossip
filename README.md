@@ -1,2 +1,2 @@
 # gossip
-gossip realize acerage
+gossip realize average
